@@ -11,10 +11,11 @@ Para melhora no atendimento no WhatsApp, com um assistente 24h disponivel que re
 ## como foi construido:
 
 foi utilizada as seguintes tecnologias:
+
 -evolution-api (Api não oficial do WhatsApp)
--Fasapi
--Agno
--Docker-compose
+-Fasapi  
+-Agno  
+-Docker-compose  
 
 ## Guia de instalação
 
