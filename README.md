@@ -18,9 +18,10 @@ foi utilizada as seguintes tecnologias:
 -Docker-compose  
 
 ### 🚀 Como rodar
-1. Configure o seu arquivo `.env`
-2. Coloque os PDFs na pasta `/Pdfs`
-3. Execute: `docker-compose up --build`
+1. Execute um gitclone  
+3. Configure o seu arquivo `.env`
+4. Coloque os PDFs na pasta `/Pdfs`
+5. Execute: `docker-compose up --build`
 
 
 
