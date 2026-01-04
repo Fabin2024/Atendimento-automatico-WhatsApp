@@ -12,12 +12,15 @@ Para melhora no atendimento no WhatsApp, com um assistente 24h disponivel que re
 
 foi utilizada as seguintes tecnologias:
 
--evolution-api (Api não oficial do WhatsApp)
+-evolution-api (Api não oficial do WhatsApp)  
 -Fasapi  
 -Agno  
 -Docker-compose  
 
-## Guia de instalação
+### 🚀 Como rodar
+1. Configure o seu arquivo `.env`
+2. Coloque os PDFs na pasta `/Pdfs`
+3. Execute: `docker-compose up --build`
 
 
 
